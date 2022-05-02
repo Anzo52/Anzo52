@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anzo52&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB)
+
+![Top Lang Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anzo52&theme=nord_dark)&nbsp;
+
+![Top Lang Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anzo52&theme=nord_dark)&nbsp;
+
+![Anzo52's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anzo52&hide_border=true&theme=redical)
+
+![Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anzo52&skills=Java,Python,Shell,Solidity&width=820)
