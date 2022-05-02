@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Anzo52's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anzo52&hide_border=true&theme=redical)
 
-![Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anzo52&skills=Java,Python,Shell,Solidity&width=820)
+![Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anzo52&skills=Java,Python,Shell,Solidity,CSS,HTML,Other&width=820)
