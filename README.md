@@ -1,12 +1,48 @@
 # Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=Anzo52&style=plastic&color=green)
+
 <div align=center>
   
-![](https://komarev.com/ghpvc/?username=Anzo52&style=plastic&color=green)
+![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+
+![](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+
+![](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
+![](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Anzo52's Github Stats](https://github-readme-stats.vercel.app/api?username=Anzo52&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anzo52&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzo52&layout=compact&theme=dark) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=red)![Python](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python&logoColor=blue)![Bash](https://img.shields.io/badge/-gnubash-05122A?style=for-the-badge&logo=gnubash&logoColor=4EAA25)![HTML5](https://img.shields.io/badge/-html5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26) ![Solidity](https://img.shields.io/badge/-solidity-05122A?style=for-the-badge&logo=solidity&logoColor=363636)
+
 
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anzo52&theme=nord_dark)
 </div>
